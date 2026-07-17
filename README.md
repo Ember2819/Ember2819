@@ -23,11 +23,12 @@
 
 Competing with **[Phishers of Men](https://phishersofmen.net)**, focused on:
 
-- `binary exploitation` — low-level, memory corruption, reversing
-- `cryptography` — breaking codes and algorithms
-- `blockchain` — smart contract bugs, reentrancy, on-chain puzzles
+- `binary exploitation`
+- `reverse engineering`
+- `blockchain`
+- `web`
 
-Also running **[@phishersofmen](https://youtube.com/@phishersofmen)** on YouTube — pentesting and hacking content.
+Also doing **[@phishersofmenYT](https://youtube.com/@phishersofmenYT)** on YouTube — pentesting and hacking content.
 
 <div align="center">
 ---
