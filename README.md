@@ -2,7 +2,7 @@
 
 # Olen T — Ember2819
 
-[![Website](https://img.shields.io/badge/site-olen--thompson.vercel.app-000000?style=flat-square&logo=vercel&logoColor=white)](https://olenthompson.me)
+[![Website](https://img.shields.io/badge/site-olenthompson.me-000000?style=flat-square&logo=vercel&logoColor=white)](https://olenthompson.me)
 [![Phishers of Men](https://img.shields.io/badge/CTF-Phishers%20of%20Men-red?style=flat-square&logo=hackthebox&logoColor=white)](https://phishersofmen.net)
 
 </div>
@@ -29,6 +29,6 @@ Competing with **[Phishers of Men](https://phishersofmen.net)**, focused on:
 <div align="center">
 ---
 
- [olen-thompson.vercel.app](https://olen-thompson.vercel.app) ·  [phishersofmen.net](https://phishersofmen.net) ·  [@phishersofmenYT](https://youtube.com/@phishersofmen)
+ [olenthompson.me](https://olenthompson.me) ·  [phishersofmen.net](https://phishersofmen.net)
 
 </div>
