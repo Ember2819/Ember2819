@@ -1,34 +1,12 @@
 <div align="center">
 
 # Olen T — Ember2819
+I am a cybersecurity enjoyer :)
+I also love coding and Linux!
 
-[![Website](https://img.shields.io/badge/site-olenthompson.me-000000?style=flat-square&logo=vercel&logoColor=white)](https://olenthompson.me)
-[![Phishers of Men](https://img.shields.io/badge/CTF-Phishers%20of%20Men-red?style=flat-square&logo=hackthebox&logoColor=white)](https://phishersofmen.net)
+I use Omarchy Linux
 
-</div>
+Checkout my projects!
 
----
-
-### `> stack`
-
-![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![C](https://img.shields.io/badge/-C-A8B9CC?style=flat-square&logo=c&logoColor=white)
-![C++](https://img.shields.io/badge/-C++-00599C?style=flat-square&logo=cplusplus&logoColor=white)
-![Go](https://img.shields.io/badge/-Go-00ADD8?style=flat-square&logo=go&logoColor=white)
-![Linux](https://img.shields.io/badge/-Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
-
-### `> ctf`
-
-Competing with **[Phishers of Men](https://phishersofmen.net)**, focused on:
-
-- `binary exploitation`
-- `reverse engineering`
-- `blockchain`
-- `web`
-
-<div align="center">
----
-
- [olenthompson.me](https://olenthompson.me) ·  [phishersofmen.net](https://phishersofmen.net)
-
-</div>
+Website: https://olenthompson.me
+Email: olenthompson2819@gmail.com
