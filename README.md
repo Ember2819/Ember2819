@@ -2,9 +2,8 @@
 
 # Olen T — Ember2819
 
-[![Website](https://img.shields.io/badge/site-olen--thompson.vercel.app-000000?style=flat-square&logo=vercel&logoColor=white)](https://olen-thompson.vercel.app)
+[![Website](https://img.shields.io/badge/site-olen--thompson.vercel.app-000000?style=flat-square&logo=vercel&logoColor=white)](https://olenthompson.me)
 [![Phishers of Men](https://img.shields.io/badge/CTF-Phishers%20of%20Men-red?style=flat-square&logo=hackthebox&logoColor=white)](https://phishersofmen.net)
-[![YouTube](https://img.shields.io/badge/YouTube-@phishersofmen-red?style=flat-square&logo=youtube&logoColor=white)](https://youtube.com/@phishersofmenYT)
 
 </div>
 
@@ -26,8 +25,6 @@ Competing with **[Phishers of Men](https://phishersofmen.net)**, focused on:
 - `reverse engineering`
 - `blockchain`
 - `web`
-
-Also doing **[@phishersofmenYT](https://youtube.com/@phishersofmenYT)** on YouTube — pentesting and hacking content.
 
 <div align="center">
 ---
